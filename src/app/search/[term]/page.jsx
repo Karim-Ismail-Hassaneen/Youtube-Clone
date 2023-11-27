@@ -1,5 +1,5 @@
 "use client";
-import { Apifetch } from '@/app/Constant/Api';
+import { Apifetch } from '@/app/utils/FetchDataFromApi';
 import Videos from '@/app/component/Videos';
 import { Box, Typography } from '@mui/material';
 import React, { useEffect, useState } from 'react'

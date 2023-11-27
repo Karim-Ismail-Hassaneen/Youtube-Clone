@@ -2,7 +2,7 @@ import { CheckCircle } from '@mui/icons-material'
 import { Card, CardContent, CardMedia, Typography } from '@mui/material'
 import Link from 'next/link'
 import React from 'react'
-import { demoChannelTitle, demoChannelUrl, demoThumbnailUrl, demoVideoTitle, demoVideoUrl } from '../Constant/constant'
+import { demoChannelTitle, demoChannelUrl, demoThumbnailUrl, demoVideoTitle, demoVideoUrl } from '../utils/constant'
 
 const VideoCard = ({video:{id:{videoId},snippet}}) => {
   return (

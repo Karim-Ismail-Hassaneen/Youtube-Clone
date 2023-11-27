@@ -1,7 +1,7 @@
 "use client";
 import { Stack } from '@mui/material'
 import React from 'react'
-import { categories } from '../Constant/constant'
+import { categories } from '../utils/constant'
 
 
 

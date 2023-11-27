@@ -2,7 +2,7 @@ import { Stack } from '@mui/material'
 import Image from 'next/image'
 import Link from 'next/link'
 import React from 'react'
-import { logo } from '../Constant/constant'
+import { logo } from '../utils/constant'
 import SearchBar from './SearchBar'
 
 

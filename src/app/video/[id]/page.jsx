@@ -1,5 +1,5 @@
 "use client";
-import { Apifetch } from '@/app/Constant/Api'
+import { Apifetch } from '@/app/utils/FetchDataFromApi'
 import Videos from '@/app/component/Videos'
 import { CheckCircle } from '@mui/icons-material'
 import { Box, Stack, Typography } from '@mui/material'

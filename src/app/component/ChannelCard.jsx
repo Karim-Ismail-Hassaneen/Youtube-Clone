@@ -1,6 +1,6 @@
 import { Box, CardContent, CardMedia, Typography } from '@mui/material'
 import React from 'react'
-import { demoProfilePicture } from '../Constant/constant'
+import { demoProfilePicture } from '../utils/constant'
 import Link from 'next/link'
 import { CheckCircle } from '@mui/icons-material'
 

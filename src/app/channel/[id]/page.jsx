@@ -1,5 +1,5 @@
 "use client";
-import { Apifetch } from "@/app/Constant/Api";
+import { Apifetch } from "@/app/utils/FetchDataFromApi";
 import ChannelCard from "@/app/component/ChannelCard";
 import Videos from "@/app/component/Videos";
 import { Box } from "@mui/material";
