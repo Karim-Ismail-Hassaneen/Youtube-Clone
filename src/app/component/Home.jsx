@@ -28,7 +28,7 @@ const Home = () => {
         >
         <Sidebar selectedCategory={selectedCategory} setselectedCategroy={setselectedCategroy}/>
         <Typography style={{color:"white"}}>
-            Copyright Free Created By Dev KM 2023 
+            Copyright Free Created By Dev KARIM 2023 
             <br />inspiration By JS Mastry
         </Typography>
         </Box>
