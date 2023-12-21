@@ -7,7 +7,7 @@ const inter = Inter({ subsets: ['latin'] })
 
 export const metadata = {
   title: 'YOUTUBE_CLONE',
-  description: 'CREATED BY DEV KM',
+  description: 'CREATED BY DEV KARIM',
 }
 
 export default function RootLayout({ children }) {
